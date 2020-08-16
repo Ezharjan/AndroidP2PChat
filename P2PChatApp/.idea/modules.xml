@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/P2P_Chat.iml" filepath="$PROJECT_DIR$/.idea/modules/P2P_Chat.iml" group="P2P_Chat" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="P2P Chat/app" />
+    </modules>
+  </component>
+</project>
